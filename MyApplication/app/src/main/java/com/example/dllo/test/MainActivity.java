@@ -18,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // 鸿翔笨死了的
+        // 鸿翔我了个擦
+        // 哪里来的, 
     }
 }
