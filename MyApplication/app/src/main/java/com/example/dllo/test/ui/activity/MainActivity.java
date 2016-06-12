@@ -1,7 +1,9 @@
-package com.example.dllo.test;
+package com.example.dllo.test.ui.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.dllo.test.R;
 
 public class MainActivity extends AppCompatActivity {
 
