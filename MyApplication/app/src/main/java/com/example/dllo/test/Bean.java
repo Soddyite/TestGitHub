@@ -5,4 +5,5 @@ package com.example.dllo.test;
  */
 public class Bean {
     //新类
+    //加内容
 }
