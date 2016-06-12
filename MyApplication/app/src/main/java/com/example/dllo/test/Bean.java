@@ -6,4 +6,6 @@ package com.example.dllo.test;
 public class Bean {
     //新类
     //加内容
+
+    //爱咋地咋地
 }
