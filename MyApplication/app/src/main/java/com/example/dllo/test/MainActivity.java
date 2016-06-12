@@ -21,7 +21,10 @@ public class MainActivity extends AppCompatActivity {
         // 鸿翔笨死了的
         // 鸿翔我了个擦
         // 哪里来的,
+<<<<<<< HEAD
 
         //你俩是不是傻
+=======
+>>>>>>> 15cba1a64ee44a37326acde8c49bf4cd2fb3407f
     }
 }
